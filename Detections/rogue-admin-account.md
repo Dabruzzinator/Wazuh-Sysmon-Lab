@@ -24,6 +24,7 @@ A rogue local admin account was created using the following commands:
 
 ```cmd
 net user badactor Sup3rSecure! /add
+![Bad Actor Created](https://raw.githubusercontent.com/Dabruzzinator/Wazuh-Sysmon-Lab/main/screenshots/Badactor%20creation.JPG)
 net localgroup administrators badactor /add
 
 
