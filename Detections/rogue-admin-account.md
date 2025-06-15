@@ -26,4 +26,4 @@ A rogue local admin account was created using the following commands:
 net user badactor Sup3rSecure! /add
 net localgroup administrators badactor /add
 
-![Elevated Command Prompt](https://github.com/Dabruzzinator/Wazuh-Sysmon-Lab/blob/main/screenshots/Elevated%20Command%20Prompt.JPG?raw=true)
+![Image](https://github.com/user-attachments/assets/4af76615-4964-4a65-8c51-95d0fab242eb)
