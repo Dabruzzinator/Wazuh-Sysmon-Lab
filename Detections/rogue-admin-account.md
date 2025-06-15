@@ -21,10 +21,10 @@ This detection identifies the creation of a new local user and the elevation of 
 ## 🧪 Lab Simulation
 ![Elevated Command Prompt](https://raw.githubusercontent.com/Dabruzzinator/Wazuh-Sysmon-Lab/main/screenshots/elevated-command-prompt.jpg)
 A rogue local admin account was created using the following commands:
-
+![Bad Actor Created](https://raw.githubusercontent.com/Dabruzzinator/Wazuh-Sysmon-Lab/main/screenshots/Badactor-creation.jpg)
 ```cmd
 net user badactor Sup3rSecure! /add
-![Bad Actor Created](https://raw.githubusercontent.com/Dabruzzinator/Wazuh-Sysmon-Lab/main/screenshots/Badactor%20creation.JPG)
+
 net localgroup administrators badactor /add
 
 
