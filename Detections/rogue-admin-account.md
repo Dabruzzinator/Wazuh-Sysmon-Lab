@@ -19,11 +19,11 @@ This detection identifies the creation of a new local user and the elevation of 
 ---
 
 ## 🧪 Lab Simulation
-
+![Elevated Command Prompt](https://raw.githubusercontent.com/Dabruzzinator/Wazuh-Sysmon-Lab/main/screenshots/elevated-command-prompt.jpg)
 A rogue local admin account was created using the following commands:
 
 ```cmd
 net user badactor Sup3rSecure! /add
 net localgroup administrators badactor /add
 
-![Image](https://github.com/user-attachments/assets/4af76615-4964-4a65-8c51-95d0fab242eb)
+
