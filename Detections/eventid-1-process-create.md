@@ -16,4 +16,6 @@ Command: `cmd.exe /c calc.exe`
 - Observed in: Kibana → Discover → `data.win.system.eventID: 1`
 
 ## Screenshot
-![Event ID 1 Screenshot](../screenshots/eventid1-example.png)
+![Event ID 1 Alert](screenshots/EventID_1_Alert.JPG)
+![Event ID 1 CMD](screenshots/EventID_1_CMD.JPG)
+
